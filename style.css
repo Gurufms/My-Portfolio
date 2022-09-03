@@ -317,14 +317,6 @@ footer a{
         padding: 20px 0;
     }
 }
-.project{
-    font-size: large;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding-bottom: 50px;
-}
-.project:hover{
-    color: white;
-}
 hr{
     margin-bottom: 50px;
 }
@@ -349,7 +341,7 @@ hr{
 
 }
 .projects:hover {
-	background-color: grey
+	background-color: black;
     
 }
 .projects:active {
