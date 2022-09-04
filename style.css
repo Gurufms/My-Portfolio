@@ -213,7 +213,8 @@ img{
 	
 }
 .myButton:hover {
-	background-color: grey
+	background-color: black;
+	color:white;
     
 }
 .myButton:active {
