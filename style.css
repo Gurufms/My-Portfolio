@@ -200,7 +200,7 @@ img{
 }
 
 .myButton {
-	background-color:white;
+	background-color:transparent;
 	border-radius:38px;
 	border:1px solid #808080;
 	display:inline-block;
