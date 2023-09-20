@@ -164,7 +164,7 @@ img{
 .php {width: 60%; background-color: #808080;} 
 .python{width: 90%; background-color: #808080;}
 .c{width: 50%; background-color: #808080;}
-.CPP{width: 60%; background-color: #808080;}
+/*.CPP{width: 60%; background-color: #808080;}*/
 .java{width: 50%; background-color: #808080;}
 .about{
     line-height: 2.5;
@@ -200,7 +200,7 @@ img{
 }
 
 .myButton {
-	background-color:transparent;
+	background-color:white;
 	border-radius:38px;
 	border:1px solid #808080;
 	display:inline-block;
